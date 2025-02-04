@@ -1,0 +1,11 @@
+To activate env (Git)
+
+source Git/bin/activate
+
+To deactivate
+
+deactivate
+
+To delete 
+
+rm 
