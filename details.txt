@@ -6,6 +6,14 @@ To deactivate
 
 deactivate
 
-To delete 
+To delete dir with content
 
-rm 
+rm -r name
+
+To delete empty dir 
+
+rmdir name
+
+To delete file
+
+rm name
